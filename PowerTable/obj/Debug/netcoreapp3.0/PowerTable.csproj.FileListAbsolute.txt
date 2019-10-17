@@ -1,0 +1,11 @@
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\bin\Debug\netcoreapp3.0\PowerTable.exe
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\bin\Debug\netcoreapp3.0\PowerTable.deps.json
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\bin\Debug\netcoreapp3.0\PowerTable.runtimeconfig.json
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\bin\Debug\netcoreapp3.0\PowerTable.runtimeconfig.dev.json
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\bin\Debug\netcoreapp3.0\PowerTable.dll
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\bin\Debug\netcoreapp3.0\PowerTable.pdb
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\obj\Debug\netcoreapp3.0\PowerTable.csprojAssemblyReference.cache
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\obj\Debug\netcoreapp3.0\PowerTable.AssemblyInfoInputs.cache
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\obj\Debug\netcoreapp3.0\PowerTable.AssemblyInfo.cs
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\obj\Debug\netcoreapp3.0\PowerTable.dll
+C:\Users\Tristan\source\repos\PowerTable\PowerTable\obj\Debug\netcoreapp3.0\PowerTable.pdb
