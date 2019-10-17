@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tristan\\source\\repos\\PowerTable\\PowerTable\\PowerTable.csproj",
+      "projectUniqueName": "C:\\Users\\Tristan\\Documents\\BootCamp\\PowerTable\\PowerTable\\PowerTable.csproj",
       "projectName": "PowerTable",
-      "projectPath": "C:\\Users\\Tristan\\source\\repos\\PowerTable\\PowerTable\\PowerTable.csproj",
+      "projectPath": "C:\\Users\\Tristan\\Documents\\BootCamp\\PowerTable\\PowerTable\\PowerTable.csproj",
       "packagesPath": "C:\\Users\\Tristan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tristan\\source\\repos\\PowerTable\\PowerTable\\obj\\",
+      "outputPath": "C:\\Users\\Tristan\\Documents\\BootCamp\\PowerTable\\PowerTable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",

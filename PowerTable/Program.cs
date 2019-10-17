@@ -8,17 +8,21 @@ namespace PowerTable
         {
             //Set up Variables
             int number;
+            
             bool computing = true;
+
             //Main Loop
             while (computing)
             {
-                Console.WriteLine("Enter a number to go up to.");
+                //Prompt the User and store the input in the local variable
+                Console.Write("Enter a number to go up to. ");
                 number = int.Parse(Console.ReadLine());
 
                 //Call methods to crunch the numbers and ask if they want to continue or not
                 Compute(number);
                 computing = KeepComputing();
             }
+
             //Good bye!
             Console.WriteLine("Take care!!");
         }
@@ -26,7 +30,7 @@ namespace PowerTable
         //Method to check if the user wants to keep going
         public static bool KeepComputing()
         {
-            Console.WriteLine("Would you like to compute another number? (y/n)");
+            Console.Write("Would you like to compute another number? (y/n) ");
             
             //Check to see if user's input is valid and proceed accordingly
             switch (Console.ReadLine().ToLower())
@@ -58,6 +62,7 @@ namespace PowerTable
                 //Calculations
                 squared = x * x;
                 cubed = x * x * x;
+                
                 //Output
                 Console.WriteLine($"{x}\t{squared}\t{cubed}");
             }
